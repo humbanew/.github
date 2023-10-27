@@ -8,8 +8,8 @@
 
   </div>
   <div style="margin-top: 3vw;"> 
-  
-  ![Humbanew_Subbanner2_Github](https://github.com/humbanew/.github/assets/59739253/077cda7e-d7ee-4eb1-a533-e2e4b53328ba)
+
+  ![Humbanew_Subbanner2_Github](https://github.com/humbanew/.github/assets/59739253/eb3608ca-7584-4863-8b86-533a3e909028)
   
   </div>
   <div style="margin-top: 3vw;"> 
