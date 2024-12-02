@@ -1,5 +1,5 @@
 <div align=center>
 
-  ![Banner github](https://github.com/user-attachments/assets/9f53cd6a-109c-4c5d-81fb-046ab240ab6f)
+  ![Banner github](https://github.com/user-attachments/assets/8caeab19-b907-4f24-be34-dc4b929b6d49)
 
 </div>
